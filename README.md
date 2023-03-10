@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=info&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fscottmcgowan24.scottmcgowan24%2Freadme&style=for-the-badge&logo=github)](https://github.com/scottmcgowan24)
 
 <!--
 **scottmcgowan24/scottmcgowan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
