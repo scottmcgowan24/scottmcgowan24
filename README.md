@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ![](https://komarev.com/ghpvc/?username=scottmcgowan24&color=orange&style=for-the-badge)
 
 <!--
